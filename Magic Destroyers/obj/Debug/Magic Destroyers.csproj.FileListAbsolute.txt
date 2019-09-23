@@ -1,0 +1,7 @@
+D:\Programming\C#\Projects\Magic Destroyers\Magic Destroyers\bin\Debug\Magic Destroyers.exe.config
+D:\Programming\C#\Projects\Magic Destroyers\Magic Destroyers\bin\Debug\Magic Destroyers.exe
+D:\Programming\C#\Projects\Magic Destroyers\Magic Destroyers\bin\Debug\Magic Destroyers.pdb
+D:\Programming\C#\Projects\Magic Destroyers\Magic Destroyers\obj\Debug\Magic Destroyers.csprojAssemblyReference.cache
+D:\Programming\C#\Projects\Magic Destroyers\Magic Destroyers\obj\Debug\Magic Destroyers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Projects\Magic Destroyers\Magic Destroyers\obj\Debug\Magic Destroyers.exe
+D:\Programming\C#\Projects\Magic Destroyers\Magic Destroyers\obj\Debug\Magic Destroyers.pdb
